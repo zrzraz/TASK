@@ -1,6 +1,5 @@
 ## t.a.s.k
 ## Tranform After School Kit 
-### Team Members - Tiffany, Sara, Zara 
 #### [Click on here for Brainstorm Cloud](insert link of system design) 
 #### [Click here to view our Video Mockup](mockup demo visualization - check insta for saved vid)
 
