@@ -34,7 +34,7 @@ The value is that it gamifies learning outside the classroom, encourages civic i
   
 # MVP Features
 # Tech stack
-### currently building in React and FastAPI for MVP, will expand to Nodejs.
+### currently building in React and FastAPI for MVP, will expand to Nodejs service for auth, notifications, or real-time partner communications.
 # Architecture
 # Future Iterations
 ![image file name](downloaded image file name)
