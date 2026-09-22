@@ -56,15 +56,15 @@ Version Control: Git/GitHub
 
 Current Progress
 
- ☑ Problem definition and user research
- ☑ Target-user definition
- ☑ MVP requirements
- ☑ Frontend project setup
- ☑ Initial React implementation
- Backend API implementation
- Frontend/backend integration
- Authentication
- Deployment
+ - ☑ Problem definition and user research
+ - ☑ Target-user definition
+ - ☑ MVP requirements
+ - ☑ Frontend project setup
+ - ☑ Initial React implementation
+ - Backend API implementation
+ - Frontend/backend integration
+ - Authentication
+ - Deployment
  
 # Architecture
 # Future Iterations
