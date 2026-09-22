@@ -3,6 +3,10 @@
 #### [Click on here for Brainstorm Cloud](insert link of system design) 
 #### [Click here to view our Video Mockup](mockup demo visualization - check insta for saved vid)
 
+T.A.S.K. is an in-development web application designed to help students discover events, clubs, learning opportunities, and community programs offered by local libraries and community organizations.
+
+## Status: 🚧 MVP in development
+
 # Problem 
 <p> Many students struggle to balance school, extracurriculars, hobbies, and friendships, and at the same time, they’re losing access to safe and meaningful “third spaces” outside of home and school. </p>
 
@@ -15,7 +19,7 @@ The value is that it gamifies learning outside the classroom, encourages civic i
 
 <p> ~kids don’t have third spaces anymore~ </p>
 
-<p> This idea stems from my own experience when I first came back from Bangladesh in 5th grade. The number one system which eased my transition back into the US was my local library (Queens Library @ South Jamaica). My brothers were ESL students who learned English really fast thanks to the library initiatives, the librarians who would help them with their homework and then would allow unlimited game time, movie nights every single day. We also enjoyed perks such as Broadway shows. We got to see Matilda and Aladdin, something which we would've never gotten to experience coming from a low income household. </p>
+<p> This idea stems from my own experience when I first came back from Bangladesh in 5th grade. The number one system which eased my transition back into the US was my local library (Queens Library). My brothers were ESL students who learned English really fast thanks to the library initiatives, the librarians who would help them with their homework and then would allow unlimited game time, movie nights every single day. We also enjoyed perks such as Broadway shows. We got to see Matilda and Aladdin, something which we would've never gotten to experience coming from a low income household. </p>
 
 <p> I'm forever grateful for my local library in making my 5th grade year so memorable, but everything changed right after I got to middle school. The librarians I grew such a close bond with, transferred to different branches or grew to different paths. Since then, I've only cherished the beautiful experience I had and haven't gotten to revisit this third space which I loved so much. </p>
 
@@ -33,8 +37,35 @@ The value is that it gamifies learning outside the classroom, encourages civic i
 - [User Persona LIBRARIAN](LINK TO FIGMA PROTOTYPE OR GOOGLE SLIDE USER PERSONA)
   
 # MVP Features
+Student:
+
+Browse local events and opportunities
+Filter opportunities by category
+Save events
+View community organizations
+
+Partner/Admin:
+
+Add and manage events
+Categorize events by age group/location
 # Tech stack
+Frontend: React
+Backend: FastAPI (planned/in development—use whichever is accurate)
+Version Control: Git/GitHub
 ### currently building in React and FastAPI for MVP, will expand to Nodejs service for auth, notifications, or real-time partner communications.
+
+Current Progress
+
+ ☑ Problem definition and user research
+ ☑ Target-user definition
+ ☑ MVP requirements
+ ☑ Frontend project setup
+ ☑ Initial React implementation
+ Backend API implementation
+ Frontend/backend integration
+ Authentication
+ Deployment
+ 
 # Architecture
 # Future Iterations
 ![image file name](downloaded image file name)
