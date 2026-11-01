@@ -3,6 +3,8 @@
 #### [Click on here for Brainstorm Cloud](insert link of system design) 
 #### [Click here to view our Video Mockup](mockup demo visualization - check insta for saved vid)
 
+work in progress - https://zrzraz.github.io/TASK/
+
 T.A.S.K. is an in-development web application designed to help students discover events, clubs, learning opportunities, and community programs offered by local libraries and community organizations.
 
 ## Status: 🚧 MVP in development
